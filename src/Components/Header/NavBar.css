@@ -1,0 +1,16 @@
+.navContainer {
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 20px;
+  border: 0px solid rgb(38, 100, 214);
+  box-shadow: 3px 6px 15px 0 rgba(155, 155, 155, 0.7);
+  width: 270px;
+  /* margin: 20px; */
+  width: 80%;
+  color: teal;
+  align-items: center;
+  margin: auto;
+}

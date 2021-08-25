@@ -1,0 +1,9 @@
+.productPageContainer {
+  display: flex;
+  flex-direction: row;
+  /* border: 3px solid rgb(209, 53, 53); */
+  flex-wrap: wrap;
+  margin: auto;
+  padding-top: 50px;
+  justify-content: center;
+}

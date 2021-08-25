@@ -1,0 +1,12 @@
+.detailsPageButton {
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  background-color: rgb(255, 127, 104);
+  text-decoration: none;
+}
+
+.detailsPageButton:hover {
+  cursor: pointer;
+}

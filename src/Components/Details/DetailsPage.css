@@ -1,0 +1,41 @@
+.detailsContainer {
+  background-color: rgb(202, 204, 204);
+  border-radius: 20px;
+  padding: 20px;
+  margin: 80px;
+  box-shadow: 3px 6px 15px 0 rgba(39, 39, 39, 0.7);
+}
+
+.detailsContainer:hover {
+  transform: scale(1.07);
+  transition: 0.5s;
+  box-shadow: 5px 8px 35px 0 rgba(0, 0, 0, 0.7);
+}
+
+.detailsPageHeader {
+  letter-spacing: 2px;
+  background-color: rgb(226, 226, 226);
+  padding: 10px;
+  border-radius: 20px;
+  padding-left: 20px;
+}
+
+.detailsPageDescription {
+  font-style: italic;
+  font-size: 20px;
+  /* background-color: aliceblue; */
+  padding: 30px;
+  padding-bottom: 20px;
+  text-align: justify;
+}
+
+.detailsPageButtonContainer {
+  padding: 5px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.detailsBodyContainer {
+  display: flex;
+  align-items: center;
+}

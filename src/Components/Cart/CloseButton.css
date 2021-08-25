@@ -1,0 +1,17 @@
+.closeButton {
+  background-color: rgb(214, 98, 98);
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 7px 15px;
+}
+
+.closeBtnContainer {
+  display: flex;
+  /* border: 15px solid black; */
+  justify-content: flex-end;
+}
+
+.closeButton:hover {
+  cursor: pointer;
+}

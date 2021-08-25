@@ -1,0 +1,29 @@
+.navButton {
+  padding: 10px 30px;
+  border-radius: 20px;
+  font-weight: bolder;
+  background-color: rgb(194, 223, 207);
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.btnNotif {
+  background-color: teal;
+  border-radius: 20px;
+  padding: 2px 6px 3px 7px;
+  color: rgb(255, 255, 255);
+}
+
+.btnName {
+  background-color: white;
+  padding-left: 5px;
+  padding-bottom: 1px;
+  border-radius: 20px;
+  margin-right: 10px;
+  background-color: rgb(241, 252, 246);
+  padding-right: 5px;
+}
+
+.navButton:hover {
+  cursor: pointer;
+}
